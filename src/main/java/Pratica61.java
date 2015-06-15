@@ -12,7 +12,7 @@ import utfpr.dainf.if62c.pratica.Time;
  * Template de projeto de programa Java usando Maven.
  * @author Wilson Horstmeyer Bogado <wilson@utfpr.edu.br>
  */
-public class Main {
+public class Pratica61 {
     public static void main(String[] args) {
  Time t1=new Time();
  Time t2=new Time();
